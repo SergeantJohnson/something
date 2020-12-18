@@ -1,0 +1,20 @@
+.div_speed{
+    float: left;
+    background-image: url('download(1).jpeg');
+    height: 500px;
+    width: 50%;
+}
+
+.div_volume{
+    float: right;
+    background-image: url('ddhdhhd.jpg');
+    height: 500px;
+    width: 50%;
+}
+
+.heading{
+    line-height: 3;
+    background-color: rgb(132, 0, 255);
+    margin:0px;
+    border: rgb(132, 0, 255) 5px ridge;
+}
