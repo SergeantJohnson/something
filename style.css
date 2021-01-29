@@ -1,20 +1,59 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin:0px;
+}
+
+.note{
+   color: black;
+   font-size: 15px;
+}
+
+body{
+    background-size: cover;
+}
+
+.div_speed_img{
+    width:100px;
+    border-radius: 100px;
+}
+
+#speed{
+    font-size: 23px;
+    margin:15px;
+}
+
 .div_speed{
     float: left;
-    background-image: url('download(1).jpeg');
-    height: 500px;
-    width: 50%;
+}
+
+.div_volume_img{
+    width:100px;
+    border-radius: 100px;
+}
+
+#volume{
+    font-size: 23px;
+    margin:15px;
 }
 
 .div_volume{
     float: right;
-    background-image: url('ddhdhhd.jpg');
-    height: 500px;
-    width: 50%;
 }
 
-.heading{
-    line-height: 3;
-    background-color: rgb(132, 0, 255);
-    margin:0px;
-    border: rgb(132, 0, 255) 5px ridge;
+.play_button{
+    width: 130px;
+    font-size: 25px;
 }
+
+canvas{
+    border: 5px salmon ridge;
+    border-radius: 20px;
+}
+
+.stop_button{
+    bottom:10px;
+    width: 130px;
+    font-size: 25px;
+}
+
